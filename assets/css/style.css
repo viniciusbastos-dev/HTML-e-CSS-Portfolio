@@ -72,18 +72,6 @@ main {
     width: 100%;
 }
 
-.container-title {
-    position: absolute;
-    top: 116px;
-    left: 91px;
-    display: inline-block;
-    background-color: #3A4042;
-    width: 627px;
-    box-shadow: 10px 10px 0 #000;
-    text-align: center;
-    padding: 46px 0 46px 0;
-}
-
 .container-buttons {
     position: absolute;
     top: 338px;

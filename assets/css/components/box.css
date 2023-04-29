@@ -1,0 +1,14 @@
+#box {
+    position: absolute;
+    top: 116px;
+    left: 91px;
+    display: inline-block;
+    background-color: #3A4042;
+    box-shadow: 10px 10px 0 #000;
+    text-align: center;
+    padding: 40px 44px;
+}
+
+#box h2 {
+    margin-bottom: 28px;
+}
