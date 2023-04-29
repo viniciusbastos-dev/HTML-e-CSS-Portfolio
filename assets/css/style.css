@@ -39,7 +39,7 @@ a {
     margin-right: 30px;
 }
 
-a::before {
+.menu::before {
     content: "";
     background-color: var(--color-frist);
     width: 10px;
@@ -47,16 +47,20 @@ a::before {
     margin-right: 10px;
 }
 
-#button {
+.button {
     display: inline-block;
     background-color: var(--color-frist);
-    padding: 18px 20px;
+    width: 170px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
     box-shadow: 5px 5px 0 #000;
     margin-right: 0px;
     transition: box-shadow 300ms;
+    box-sizing: border-box;
 }
 
-#button:hover {
+.button:hover {
     box-shadow: 0px 0px 0 #000;
 }
 
@@ -64,7 +68,11 @@ main {
     position: relative;
 }
 
-.container {
+.background-image {
+    width: 100%;
+}
+
+.container-title {
     position: absolute;
     top: 116px;
     left: 91px;
@@ -76,18 +84,12 @@ main {
     padding: 46px 0 46px 0;
 }
 
-.container h2 {
-    font-family: 'Press Start 2P', sans-serif;
-    color: var(--color-frist);
-    text-shadow: 4px 4px 0 #000;
-    font-size: 40px;
-    margin-bottom: 9px;
+.container-buttons {
+    position: absolute;
+    top: 338px;
+    left: 181px;
 }
 
-.container h3 {
-    font-family: 'Press Start 2P', sans-serif;
-    color: var(--color-third);
-    text-shadow: 4px 4px 0 #000;
-    font-size: 30px;
-    margin-top: 9px;
+.container-buttons a {
+    margin-right: 112px;
 }
