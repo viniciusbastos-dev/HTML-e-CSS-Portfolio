@@ -1,0 +1,16 @@
+.button {
+    display: inline-block;
+    background-color: var(--color-frist);
+    width: 170px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    box-shadow: 5px 5px 0 #000;
+    margin-right: 0px;
+    transition: box-shadow 300ms;
+    box-sizing: border-box;
+}
+
+.button:hover {
+    box-shadow: 0px 0px 0 #000;
+}
