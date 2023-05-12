@@ -1,6 +1,7 @@
 .button {
     display: inline-block;
-    background-color: var(--color-frist);
+    background-color: #6B66FF;
+    color: #fff;
     width: 170px;
     height: 60px;
     line-height: 60px;
@@ -9,6 +10,7 @@
     margin-right: 0px;
     transition: box-shadow 300ms;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 .button:hover {

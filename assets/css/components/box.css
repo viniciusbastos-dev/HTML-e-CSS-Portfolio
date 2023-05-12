@@ -1,4 +1,4 @@
-#box {
+.box {
     position: absolute;
     top: 116px;
     left: 91px;
@@ -9,6 +9,6 @@
     padding: 40px 44px;
 }
 
-#box h2 {
+.box h2 {
     margin-bottom: 28px;
 }

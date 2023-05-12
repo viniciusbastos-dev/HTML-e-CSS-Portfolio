@@ -1,6 +1,6 @@
-h3 {
+.subtitle {
     font-family: 'Press Start 2P', sans-serif;
     font-size: 30px;
-    color: var(--color-third);
+    color: #fff;
     text-shadow: 4px 4px 0 #000;
 }

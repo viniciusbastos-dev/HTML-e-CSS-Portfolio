@@ -1,6 +1,6 @@
-h2 {
+.title {
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
-    color: var(--color-frist);
+    color: #6B66FF;
     text-shadow: 4px 4px 0 #000;
 }
