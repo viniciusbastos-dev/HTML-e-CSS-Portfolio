@@ -1,17 +1,16 @@
-.skill-box {
+.skill-tec {
     display: flex;
-    width: 430px;
-    height: 90px;
-    margin-top: 60px;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 25px;
+    color: #FFF;
 }
 
-.skill-box img {
-    width: 90px;
+.skill-tec .icon {
+    margin-right: 25px;
 }
 
-.skill-info {
+.skill-tec .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding-left: 25px;
 }
