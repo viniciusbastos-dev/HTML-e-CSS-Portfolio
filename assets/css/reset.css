@@ -3,8 +3,16 @@ h1,
 h2,
 h3 {
     margin: 0px;
+    font-weight: normal;
 }
 
-* {
+
+
+body {
     font-family: "Fira Code", sans-serif;
+}
+
+img {
+    user-select: none;
+    pointer-events: none;
 }
