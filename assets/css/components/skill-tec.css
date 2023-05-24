@@ -1,0 +1,17 @@
+.skill-box {
+    display: flex;
+    width: 430px;
+    height: 90px;
+    margin-top: 60px;
+}
+
+.skill-box img {
+    width: 90px;
+}
+
+.skill-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 25px;
+}
