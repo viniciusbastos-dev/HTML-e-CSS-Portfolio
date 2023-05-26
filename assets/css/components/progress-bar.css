@@ -8,7 +8,7 @@
 }
 
 .progress-bar::-webkit-progress-value {
-    background-color: #4F4DC1;
+    background-color: #007FFF;
 }
 
 .progress-bar::-moz-progress-bar {
@@ -16,5 +16,5 @@
 }
 
 .progress-bar::-moz-progress-value {
-    background-color: #4F4DC1;
+    background-color: #007FFF;
 }
