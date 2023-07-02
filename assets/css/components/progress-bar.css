@@ -4,17 +4,17 @@
 }
 
 .progress-bar::-webkit-progress-bar {
-    background-color: #FFF;
+    background-color: var(--color-third);
 }
 
 .progress-bar::-webkit-progress-value {
-    background-color: #007FFF;
+    background-color: var(--color-second);
 }
 
 .progress-bar::-moz-progress-bar {
-    background-color: #FFF;
+    background-color: var(--color-third);
 }
 
 .progress-bar::-moz-progress-value {
-    background-color: #007FFF;
+    background-color: var(--color-second);
 }

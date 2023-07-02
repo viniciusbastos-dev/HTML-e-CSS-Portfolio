@@ -2,13 +2,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #007FFF;
+    background-color: var(--color-second);
     border-bottom: 10px solid #000;
     padding: 10px 20px;
 }
 
 .header h1 {
-    font-family: 'Press Start 2P', sans-serif;
-    color: #fff;
+    font-family: "Press Start 2P", sans-serif;
+    color: var(--color-third);
     text-shadow: 5px 5px 0 #000;
 }

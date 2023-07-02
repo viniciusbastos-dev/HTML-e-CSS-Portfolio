@@ -1,3 +1,11 @@
+:root,
+:root::after,
+:root::before {
+    --color-second: #510088;
+    --color-first: #1679ff;
+    --color-third: #fff;
+}
+
 body,
 h1,
 h2,
@@ -5,8 +13,6 @@ h3 {
     margin: 0px;
     font-weight: normal;
 }
-
-
 
 body {
     font-family: "Fira Code", sans-serif;

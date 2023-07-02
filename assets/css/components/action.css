@@ -1,16 +1,16 @@
-.action {
+.action-link {
     display: inline-flex;
     align-items: center;
-    color: #fff;
+    color: var(--color-third);
     font-size: 20px;
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
 }
 
-.action::before {
+.action-link::before {
     content: "";
-    background-color: #AA52FF;
+    background-color: var(--color-first);
     width: 10px;
     height: 10px;
     margin-right: 10px;
