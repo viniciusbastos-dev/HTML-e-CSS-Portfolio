@@ -5,7 +5,7 @@
     text-shadow: 4px 4px 0 #000;
 }
 
-.main-title._second {
+.main-title.-second {
     color: var(--color-third);
     text-shadow: none;
     text-align: center;

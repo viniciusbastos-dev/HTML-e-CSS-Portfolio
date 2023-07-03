@@ -1,7 +1,11 @@
 .project-card {
+    align-items: center;
     background-color: var(--color-second);
-    padding: 15px 30px;
     box-shadow: 10px 10px var(--color-third);
+    display: flex;
+    height: 280px;
+    justify-content: center;
+    width: 280px;
 }
 
 .project-card.second {
