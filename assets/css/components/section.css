@@ -2,9 +2,20 @@
     background-color: var(--color-first);
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 5px solid var(--color-second);
+    border-bottom: 10px solid var(--color-second);
 }
 
 .section .main-title {
     margin-bottom: 60px;
 }
+
+.section.project {
+    background-color: #000;
+    border-bottom: 10px solid var(--color-first);
+}
+
+.wrapper-project {
+    display: flex;
+    justify-content: space-around;
+}
+

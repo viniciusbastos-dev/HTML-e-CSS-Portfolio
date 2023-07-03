@@ -1,0 +1,13 @@
+.project-card {
+    background-color: var(--color-second);
+    padding: 15px 30px;
+    box-shadow: 10px 10px var(--color-third);
+}
+
+.project-card.second {
+    background-color: #4c5b84;
+}
+
+.project-card.third {
+    background-color: var(--color-first);
+}
