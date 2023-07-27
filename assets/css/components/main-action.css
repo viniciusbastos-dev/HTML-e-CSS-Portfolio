@@ -1,4 +1,4 @@
-.action-link {
+.main-action {
     display: inline-flex;
     align-items: center;
     color: var(--color-third);
@@ -8,7 +8,7 @@
     margin-right: 30px;
 }
 
-.action-link::before {
+.main-action::before {
     content: "";
     background-color: var(--color-first);
     width: 10px;
