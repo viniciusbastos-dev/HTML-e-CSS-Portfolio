@@ -8,10 +8,10 @@
     width: 280px;
 }
 
-.project-card.second {
+.project-card.-second {
     background-color: #4c5b84;
 }
 
-.project-card.third {
+.project-card.-third {
     background-color: var(--color-first);
 }

@@ -9,8 +9,11 @@
     margin-bottom: 60px;
 }
 
-.section.project {
+.section.-bgBlack {
     background-color: #000;
+}
+
+.section.-bdFirst {
     border-bottom: 10px solid var(--color-first);
 }
 
