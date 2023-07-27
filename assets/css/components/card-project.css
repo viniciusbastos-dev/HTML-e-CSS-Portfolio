@@ -1,4 +1,4 @@
-.project-card {
+.card-project {
     align-items: center;
     background-color: var(--color-second);
     box-shadow: 10px 10px var(--color-third);
@@ -8,10 +8,10 @@
     width: 280px;
 }
 
-.project-card.-second {
+.card-project.-second {
     background-color: #4c5b84;
 }
 
-.project-card.-third {
+.card-project.-third {
     background-color: var(--color-first);
 }

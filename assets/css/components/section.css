@@ -16,9 +16,3 @@
 .section.-bdFirst {
     border-bottom: 10px solid var(--color-first);
 }
-
-.wrapper-project {
-    display: flex;
-    justify-content: space-around;
-}
-
